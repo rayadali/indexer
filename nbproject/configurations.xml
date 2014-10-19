@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configurationDescriptor version="94">
+  <logicalFolder name="root" displayName="root" projectFiles="true" kind="ROOT">
+    <logicalFolder name="HeaderFiles"
+                   displayName="Header Files"
+                   projectFiles="true">
+    </logicalFolder>
+    <logicalFolder name="ResourceFiles"
+                   displayName="Resource Files"
+                   projectFiles="true">
+    </logicalFolder>
+    <logicalFolder name="SourceFiles"
+                   displayName="Source Files"
+                   projectFiles="true">
+      <logicalFolder name="indexer" displayName="indexer" projectFiles="true">
+        <logicalFolder name="dist" displayName="dist" projectFiles="true">
+          <logicalFolder name="Debug" displayName="Debug" projectFiles="true">
+            <logicalFolder name="Cygwin_4.x-Windows"
+                           displayName="Cygwin_4.x-Windows"
+                           projectFiles="true">
+              <itemPath>dist/Debug/Cygwin_4.x-Windows/indexer.exe</itemPath>
+            </logicalFolder>
+          </logicalFolder>
+        </logicalFolder>
+        <itemPath>Makefile</itemPath>
+      </logicalFolder>
+      <logicalFolder name="f1" displayName="sl" projectFiles="true">
+        <itemPath>../../../Desktop/uni work/cs 214/sorted list/sorted-list.c</itemPath>
+        <itemPath>../../../Desktop/uni work/cs 214/sorted list/sorted-list.h</itemPath>
+      </logicalFolder>
+      <itemPath>baa</itemPath>
+      <itemPath>boo</itemPath>
+      <itemPath>hashTable.c</itemPath>
+      <itemPath>hashWordCount.c</itemPath>
+      <itemPath>hashimplementation.c</itemPath>
+      <itemPath>indexer.c</itemPath>
+      <itemPath>indexer2.c</itemPath>
+      <itemPath>tokenizeran.c</itemPath>
+    </logicalFolder>
+    <logicalFolder name="TestFiles"
+                   displayName="Test Files"
+                   projectFiles="false"
+                   kind="TEST_LOGICAL_FOLDER">
+    </logicalFolder>
+    <logicalFolder name="ExternalFiles"
+                   displayName="Important Files"
+                   projectFiles="false"
+                   kind="IMPORTANT_FILES_FOLDER">
+      <itemPath>Makefile</itemPath>
+    </logicalFolder>
+  </logicalFolder>
+  <sourceRootList>
+    <Elem>.</Elem>
+  </sourceRootList>
+  <projectmakefile>Makefile</projectmakefile>
+  <confs>
+    <conf name="Debug" type="1">
+      <toolsSet>
+        <compilerSet>default</compilerSet>
+        <dependencyChecking>true</dependencyChecking>
+        <rebuildPropChanged>false</rebuildPropChanged>
+      </toolsSet>
+      <compileType>
+      </compileType>
+      <item path="../../../Desktop/uni work/cs 214/sorted list/sorted-list.c"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="../../../Desktop/uni work/cs 214/sorted list/sorted-list.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="Makefile" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="baa" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="boo" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="dist/Debug/Cygwin_4.x-Windows/indexer.exe"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="hashTable.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="hashWordCount.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="hashimplementation.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="indexer.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="indexer2.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="tokenizeran.c" ex="false" tool="0" flavor2="0">
+      </item>
+    </conf>
+    <conf name="Release" type="1">
+      <toolsSet>
+        <compilerSet>default</compilerSet>
+        <dependencyChecking>true</dependencyChecking>
+        <rebuildPropChanged>false</rebuildPropChanged>
+      </toolsSet>
+      <compileType>
+        <cTool>
+          <developmentMode>5</developmentMode>
+        </cTool>
+        <ccTool>
+          <developmentMode>5</developmentMode>
+        </ccTool>
+        <fortranCompilerTool>
+          <developmentMode>5</developmentMode>
+        </fortranCompilerTool>
+        <asmTool>
+          <developmentMode>5</developmentMode>
+        </asmTool>
+      </compileType>
+      <item path="../../../Desktop/uni work/cs 214/sorted list/sorted-list.c"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="../../../Desktop/uni work/cs 214/sorted list/sorted-list.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="Makefile" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="baa" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="boo" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="dist/Debug/Cygwin_4.x-Windows/indexer.exe"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="hashTable.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="hashWordCount.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="hashimplementation.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="indexer.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="indexer2.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="tokenizeran.c" ex="false" tool="0" flavor2="0">
+      </item>
+    </conf>
+  </confs>
+</configurationDescriptor>
